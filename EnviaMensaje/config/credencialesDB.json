@@ -1,0 +1,7 @@
+{
+    "dbname": "agendaconsultoriocforero",
+    "user": "agendacf",
+    "password": "agendacf",
+    "host": "192.168.1.70",
+    "port": 5432
+}

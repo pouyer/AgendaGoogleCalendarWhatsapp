@@ -1,0 +1,109 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="registro" directorySegmentName="seg_0" id="B31AFAE4-8649-2C5A-12E1-4F6BBFCE4014">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<schemaObject>7EC13E62-AE2B-4AC8-9AB1-349E56F2C86D</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="GPS_lat" id="1CA3F2C2-1456-5731-01FE-F2391E388659">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="idkey" id="2440BC49-19C6-EA84-9F9A-7AE472F2E95A">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Az" id="34C3AADE-F14C-003C-9C96-B8E7A799E736">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Dr" id="401E8429-BADE-0824-C0A7-28DE1115FDC4">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="id" id="44D3012B-D985-D290-B1FF-9F7CEFDBE30E">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Ay" id="53895D47-0BB7-5F45-7C87-ADD3E7959388">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Ax" id="543DE48E-3A89-77C4-DFB2-D3EE5E1B87D6">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="GPS_lon" id="67E79A1C-1EB3-BD9E-8118-EBF16FA6E904">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Vel" id="76994690-72C9-3EF5-CA7C-27860BA0FB7F">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="secuencia" id="7783B434-0B7B-4C3B-304C-7FB574BD7E0D">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<defaultValue>nextval(&apos;s_registro_pk&apos;::regclass)</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="aud_fch_ins" id="8DF54FEA-733F-7056-71E5-667D4B691347">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<defaultValue>CURRENT_TIMESTAMP</defaultValue>
+</ColumnProxy>
+<ColumnProxy name="Ta" id="A0217241-7D65-8B1A-952A-4518FF29D1E8">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="fechaCargada" id="A206584A-7959-3A56-23EE-20A8733934F5">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Dt" id="C138C4E6-9FAB-92DE-FC5E-C8065B838D5E">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Ts" id="FB1E6E6C-06D2-D607-8587-5795F247FFBA">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="Dl" id="FEF816AE-3172-1AB9-5A68-D2CCDAE0ED6F">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="iddispositivo" id="FF110B13-ACF8-0ED3-1870-D377684326C4">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="registro_pk" id="BA0F952A-141B-ACB7-869C-2AB72CFE7739">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<indexSort>SORTED</indexSort>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>

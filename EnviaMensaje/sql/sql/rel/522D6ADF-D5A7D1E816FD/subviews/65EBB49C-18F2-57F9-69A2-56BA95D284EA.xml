@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.relational.DPVRelational" name="AngenLocal_postgres_adminangel" id="65EBB49C-18F2-57F9-69A2-56BA95D284EA">
+<createdBy>Carlos</createdBy>
+<modifiedBy>Carlos</modifiedBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="B31AFAE4-8649-2C5A-12E1-4F6BBFCE4014" otype="Table" vid="6CC874ED-FE4C-3835-0848-E24F56731A41">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="50" y="50" width="170" height="110"/>
+</OView>
+</objectViews>
+</Diagram>

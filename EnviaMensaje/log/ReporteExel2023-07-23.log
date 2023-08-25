@@ -1,0 +1,8 @@
+[2023-07-23 17:05:38] [INFO]  ******** Iniciando Programa ENVIO DE MENSAJES ******** 
+[2023-07-23 17:05:38] [DEBUG] el url: http://localhost:8001/calendar/list/
+[2023-07-23 17:05:38] [DEBUG] fecha: 2023-07-24
+[2023-07-23 17:05:38] [DEBUG] LeeApi: http://localhost:8001/calendar/list/2023-07-24
+[2023-07-23 17:05:40] [DEBUG] 500
+[2023-07-23 17:05:40] [INFO]  Se ejecuto insercion en Base de Datos
+[2023-07-23 17:05:40] [INFO]   Inicia proceso de depuracion API:
+[2023-07-23 17:05:40] [INFO]  ...FIN PROCESO ...

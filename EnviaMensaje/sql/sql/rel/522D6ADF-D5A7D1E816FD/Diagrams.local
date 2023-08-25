@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="main_view" objectID="65EBB49C-18F2-57F9-69A2-56BA95D284EA" name="AngenLocal_postgres_adminangel" visible="false"/>
+   <object objectType="sub_view" objectID="C5563771-B7FB-D7C1-E782-CBFCFAA4377C" name="AngenLocal_postgres_adminangel - SubView_1" visible="false"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

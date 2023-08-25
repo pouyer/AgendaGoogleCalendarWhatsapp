@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="AngenLocal_postgres_adminangel" id="522D6ADF-39CE-B9D3-DE7D-D5A7D1E816FD" mainViewID="65EBB49C-18F2-57F9-69A2-56BA95D284EA">
+<createdBy>Carlos</createdBy>
+<createdTime>2023-07-22 14:35:29 UTC</createdTime>
+<ownerDesignName>sql</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>

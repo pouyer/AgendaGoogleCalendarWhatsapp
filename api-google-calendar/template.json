@@ -1,0 +1,21 @@
+{
+  "summary": "Evento importante POUYER!",
+  "location": "Consultorio nuevo cayita",
+  "description": "Esta es la descripcion consulta odontologica",
+  "start": {
+    "dateTime": "2023-07-17T15:00:00",
+    "timeZone": "America/Bogota"
+  },
+  "end": {
+    "dateTime": "2023-07-17T15:20:00",
+    "timeZone": "America/Bogota"
+  },
+  "attendees": [{ "email": "pouyer01@gmail.com" }],
+  "reminders": {
+    "useDefault": false,
+    "overrides": [
+      { "method": "email", "minutes": 30 },
+      { "method": "popup", "minutes": 10 }
+    ]
+  }
+}

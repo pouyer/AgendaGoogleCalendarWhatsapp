@@ -1,0 +1,8 @@
+[2023-07-26 02:18:37] [INFO]  ******** Iniciando Programa ENVIO DE MENSAJES ******** 
+[2023-07-26 10:00:43] [INFO]  Se ejecuto insercion en Base de Datos con ID: nomArc_2023-07-26_100040
+[2023-07-26 10:00:51] [INFO] Envio mensaje telefono 573158991133 id de cita: id7m3h2iotdgm2p4mr5snde2d8 respuesta envio: {"responseDbSave": {"uuid": "00---000", "message": "test", "phone": "00000"}, "responseExSave": {"id": "3EB07B61EF535B733BC00A"}}
+[2023-07-26 10:00:59] [INFO] Envio mensaje telefono 573158991133 id de cita: q0f0vqcgt3prdmqt4qjtsa82io respuesta envio: {"responseDbSave": {"uuid": "00---000", "message": "test", "phone": "00000"}, "responseExSave": {"id": "3EB082E30E6BB851F5C752"}}
+[2023-07-26 10:01:07] [INFO] Envio mensaje telefono 573196553619 id de cita: 6qo29fcdan4qjl734mbfvea764 respuesta envio: {"responseDbSave": {"uuid": "00---000", "message": "test", "phone": "00000"}, "responseExSave": {"id": "3EB0797838DE590F7F3642"}}
+[2023-07-26 10:01:15] [INFO] Envio mensaje telefono 573158991134 id de cita: j50qt304980t7p64b0rtnngo80 respuesta envio: {"responseDbSave": {"uuid": "00---000", "message": "test", "phone": "00000"}, "responseExSave": {"id": "3EB0FD8B25D1B361A867ED"}}
+[2023-07-26 10:01:15] [INFO]  ...FIN PROCESO ...
+[2023-07-26 10:03:18] [ERROR] 1.0. Ocurrio un error al insertar: connection already closed
